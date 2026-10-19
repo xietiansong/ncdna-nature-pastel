@@ -1,0 +1,4 @@
+interface:
+  display_name: "NNP-9 Figure Palette"
+  short_description: "Fixed nested pastel palette for ncDNA figures"
+  default_prompt: "Use $ncdna-nature-pastel to apply the NNP-9 house palette to this figure."
